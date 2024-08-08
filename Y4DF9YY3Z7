@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digitalcredentials.github.io/lef-dashboard-cred-status/Y4DF9YY3Z7#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAjAoEUwgv1T2sIL2GoCAAAAAAAAAAAAAAD4daZLxP7UMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAIBAAsZMviUD_lMhPgNt2q9OaAAAAAAAAAAAAAAAA_ns7b5Ic1DAAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
-  "issuanceDate": "2024-03-19T17:27:59.170Z",
+  "issuanceDate": "2024-08-08T13:46:26.475Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2024-03-19T17:27:59Z",
+    "created": "2024-08-08T13:46:26Z",
     "verificationMethod": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR#z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z32d2oxYsBCCLj7VpjQ9ibuuKcAL67KFEeUQFc2Ur7Xc5i2svTbdjTx3wr283tvSXXZDbiRn9gpz2e2pTADyKdwKQ"
+    "proofValue": "z423qBqgScfpS8N6hKRMsgigjCKBmqzFaVKBhfRKYVmknoZzt5vheoFdrsAcFRtEzhAn4LYMwTEovURchTotdWWN9"
   }
 }
